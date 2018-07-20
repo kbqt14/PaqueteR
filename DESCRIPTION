@@ -18,5 +18,5 @@ ggplot2( >= 3.0.0),
 
 igraph( >=1.2.1)
 
-URL:
-BugReports: 
+URL: https://github.com/kbqt14/PaqueteR
+BugReports: https://github.com/kbqt14/PaqueteR/issues
