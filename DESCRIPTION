@@ -1,11 +1,22 @@
 Package: PaqueteR
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
+Version: 0.1.0. 9000
+Author: person("Silverio A","Quintana", email="kbqt14@gmail.com", role=c("aut","man")),
+        persona("Eliana","Darqui", email="elianadarqui@gmail.com",role ="cre")
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Creando paquete para principiante.
+License: MIT
 Encoding: UTF-8
 LazyData: true
+Depends: 
+Imports:
+
+lubridate( >= 1.7.4),
+
+ggplot2( >= 3.0.0),
+
+igraph( >=1.2.1)
+
+URL:
+BugReports: 
